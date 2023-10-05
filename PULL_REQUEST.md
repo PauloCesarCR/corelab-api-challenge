@@ -19,3 +19,10 @@
 ### Banco de dados PostgreSQL
 
 ### TyperORM
+
+### Docker compose com 4 containers.
+
+- PGAdmin
+- ReactJS Web
+- NESTJS API
+- POSTGRESQL
