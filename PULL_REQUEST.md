@@ -10,11 +10,15 @@
 
 - Abra na raiz do repo um cmd e execute o seguinte comando.
 
-- Docker compose up -d
+- Docker compose up -d --build
 
 - Após o build, e os containers subirem.
 
-- Abra o localhost:3001 para acessar a aplicação.
+- Abra o localhost:3001 para acessar o frontd da aplicação.
+
+- A API estará exposta na porta 3000.
+
+- O PostgreSQL na porta 5432
 
 ### Banco de dados PostgreSQL
 
